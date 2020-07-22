@@ -1,0 +1,348 @@
+#title
+{
+    background-color:#6a2c70;
+    color: white;
+}
+.shah
+{
+    padding-top: 100px;
+}
+body
+{
+    font-family: "Montserrat";    
+
+}
+.container-fluid
+{
+    padding: 3% 5%  7%;
+    
+}
+
+/* for navigation bar */
+
+.navbar
+{ 
+    width: 80%;
+    position: fixed;
+    top: 0px;
+    padding-top: 10px;
+    padding-right: 100;
+    margin-bottom: 20px;
+    z-index: 999;
+    background-color:#6a2c70;
+    
+      
+}
+.lo 
+{
+   height: 50px;
+   
+}
+.nav-item
+{
+    padding: 0 18px;
+
+    
+}
+.al
+{
+    padding-top: 20px;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    
+
+}
+/*title */
+
+h1
+{
+    font-family: "Montserrat-Black";    
+    font-size: 2rem;
+    line-height: 1.5;
+}
+h2
+{
+    font-family:"Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.m
+{
+    font-family: "Montserrat-Black" ;
+    font-size: 1rem;
+    padding-left: 50px;
+}
+h4
+{
+    text-align: center;
+    padding-right: 140px;
+}
+h5
+{
+    text-align: center;
+    margin-top: 20px;
+    padding-right: 200px;
+    padding-left: 50px;
+    
+    
+}
+.btn1
+{
+    margin-right: 150px;
+    color:white;
+    background-color:lightcoral;
+}
+/*video*/
+.vid 
+{
+    margin:25px ;
+    padding-left: 100px;
+    padding-right: 20px;
+}
+.thumb 
+{
+    size: 30px 30 px;
+}
+/*features */
+#features
+{
+    padding: 5% 15% ;
+    background-color: #fff;
+    
+    
+}
+
+.f1
+{
+    width: 50%;
+    margin: 0 auto 50px auto;
+    float: right;
+}
+.head
+{
+    
+    width: 110%;
+    margin: 50px auto 5px auto;
+    text-align: left;
+    font-size: 2rem;
+    
+
+}
+.par
+{
+    font-size: 1.2rem;
+    padding-right: 30px;
+    
+}
+.btnp
+{
+    float: left;
+    color: white;
+    background-color:#3282b8;
+}
+/*feature 1*/
+#features1
+{
+    padding: 5% 15% ;
+    background-color: whitesmoke;
+    
+    
+}
+.f2
+{
+    width: 50%;
+    margin: 0 auto 50px auto;
+    float: left;
+}
+.btnp1
+{
+    background-color:#b19cd9;
+}
+/*feature 2*/
+#features3
+{
+    padding: 5% 15% ;
+    background-color: #fff;
+    
+    
+}
+.f3
+{
+    width: 50%;
+    margin: 0 auto 50px auto;
+    float: right;
+}
+.par2
+{
+    font-size: 1.2rem;
+    padding-right: 30px;
+    
+}
+.btnp2
+{
+    float: left;
+    margin-left: 140px;
+    color: white;
+    background-color:#b19cd9;
+}
+
+.feature-box
+{
+    text-align: center;
+}
+
+/*pricing*/
+#pricing
+{
+    padding: 100px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.pricing-column
+{
+    padding:3% 2% ;
+}
+.btns
+{
+    background-color:#b19cd9 ;
+}
+.card1
+{
+    background-color: violet;
+    
+}
+.card2
+{
+    background-color:#ff847c;
+    min-height: 560px;
+}
+.card3
+{
+    background-color: skyblue;
+    min-height: 560px;
+}
+#testimonials
+{
+    padding: 7% 15%;
+    background-color:  #ef8172;
+    text-align: center;
+    color: white;
+}
+
+
+
+/*pricing*/
+
+#pricing
+{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column
+{
+    padding:3% 2% ;
+}
+
+
+@media(max-width:600px)
+{
+    #title
+    {
+        text-align: center;
+    }
+    .al
+    {
+        text-align: center;
+    }
+    .row
+    {
+        text-align: center;
+    }
+}
+
+/*cta*/
+#cta
+{
+    background-color:whitesmoke ;
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+.head4
+{
+    font-family:"Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.vid1
+{
+    float: right;
+}
+
+.btnp3
+{
+    float: right;
+    margin-right:80px;
+    color: white;
+    background-color:#b19cd9;
+}
+.par4
+{
+    font-size: 1.2rem;
+    padding-left: 500px;
+
+}
+#Ava
+{
+        background-color:whitesmoke ;
+        padding-bottom: 80px;
+        
+     
+}
+.avail 
+{
+    height: 500px;
+    width: 900px;
+}
+
+.ap 
+{
+    height: 40px;
+    width: 40px;
+    margin-right: 40px;
+    margin-left: 500px;
+}
+.an
+{
+    height: 40px;
+    width: 40px;
+    margin-right: 40px;
+}
+.am 
+{
+    height: 40px;
+    width: 40px;
+    margin-right: 40px;
+}
+.go 
+{
+    height: 40px;
+    width: 40px;
+}
+/*footer*/
+#footer
+{
+    padding-top: 5%;
+    text-align: center;
+    background-color:#6a2c70 ;
+}
+.social
+{
+    margin: 20px 10px;
+}
